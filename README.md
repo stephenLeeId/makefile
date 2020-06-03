@@ -1,1 +1,1 @@
-# makefile
+for makefile study
